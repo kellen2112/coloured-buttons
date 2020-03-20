@@ -9,7 +9,7 @@ var color = [
     'rebeccapurple',
     'orangered',
     'forestgreen',
-    'yellowgregiten',
+    'yellowgreen',
     'thistle',
     'turquoise',
     'peachpuff',
